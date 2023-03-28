@@ -1,4 +1,4 @@
-<h1 align="center">¡HOLA!, Soy Santiago Álvarez</h1>
+<h1 align="center">¡HOLA!, Soy Santiago Alvarez</h1>
 <h3 align="center">Desarrollador Web Full Stack </h3>
 
 <h1>¿Quién soy?</h1>
@@ -18,6 +18,10 @@
 <h3> - Node.Js  </h3>
 <h3> - Sequelize</h3>
 <h3> - Next.js </h3>
+
+
+
+
 
 <h1>¿Quieres contactarme?</h1>
 <h2>Linkedin: https://www.linkedin.com/in/santiagoalvarezwebdeveloper/</h2>
