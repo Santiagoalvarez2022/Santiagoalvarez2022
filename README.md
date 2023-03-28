@@ -20,4 +20,5 @@
 <h3> - Next.js </h3>
 
 <h1>¿Quieres contactarme?</h1>
-<a><a>
+<h2>Linkedin: https://www.linkedin.com/in/santiagoalvarezwebdeveloper/</h2>
+<h2>Gmail: santiagoalvarez290401@gmail.com </h2>
